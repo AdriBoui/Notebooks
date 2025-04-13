@@ -1,58 +1,63 @@
-# 👋 Hey there, I’m Adrien
+<h1 align="center">Hi there, I'm Adrien 👋</h1>
 
-## I help businesses grow by transforming data into actionable insights
-
-I’m a fully trained Data Analyst with a business background. I completed Le Wagon’s intensive bootcamp, gaining hands-on experience with data tools such as SQL, Python, Power BI, DBT, and more. I also mastered key data processes like ETL, automation, and data visualization through real business projects.
-
-My experience at tech companies like Revolut and Microsoft taught me how to thrive in fast-paced environments. I now leverage my technical and business skills to help sales, marketing, and operations teams make sense of data.
+<p align="center">
+  A Data Analyst with a Business Mindset | SQL • Python • Power BI • DBT • ETL | Always Learning
+</p>
 
 ---
 
-### 🔧 Technical Skills
+### 🧑‍💼 About Me
 
-- **Languages & Tools:** SQL, Python, Power BI, DBT
-- **Processes:** ETL, Automation, Data Visualization
-
----
-
-### 🧠 Projects
-
-- **Case Studies:** [Link to your case studies]
+- 🎓 Graduated from **Le Wagon Data Analytics Bootcamp**
+- 💼 Past experience at **Teleperformance** & **Revolut**
+- 🛠️ I work with **SQL, Python, Power BI, DBT, ETL processes, and data automation**
+- 📈 Passionate about **making data talk** and **supporting sales, marketing, and ops teams**
+- 🧠 Love solving real-world business problems with a **data-driven mindset**
 
 ---
 
-### 💼 Companies I've Worked With
+### 🧰 Toolbox
 
-- Revolut
-- Microsoft
-- [Add other companies you've worked with]
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+*Other tools I use regularly: Power BI, DBT, Google Sheets, Zapier, Notion, Excel*
 
 ---
 
-### 📣 Testimonials
+### 💼 My Experience
 
-> "Adrien's sales and social skills are impressive. He effortlessly connects with clients and closes deals with professionalism and ease."  
-> — *Vignesh Rajasekar, Marketing Strategist Project Lead*
+- 🔹 **Account Executive** @ *Revolut*
+- 🔹 **Sales Advocate** @ *Microsoft*
+- 🔹 Worked on real-world projects at Le Wagon including ETL pipelines, dashboards, and forecasting models
 
-> "Adrien is a great team player who is reliable, approachable, and easy to work with. I strongly recommend him for any project."  
-> — *Jane Walls, Customer Success Engineer*
+---
 
-> "Adrien is an active listener who is highly competent at building lasting rapport with customers. He will be an asset to your team."  
-> — *Alexine Dumas, Sales Engineer*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="Adrien's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:your.email@example.com)
-- [Resume](https://app.enhancv.com/share/yourresume)
-- [Schedule a Meeting](https://calendar.notion.so/yourcalendar)
+<p>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-![Adrien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
+⭐️ From [Adrien](https://github.com/AdriBouis)
