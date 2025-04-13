@@ -58,7 +58,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/adrien-bouis/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
