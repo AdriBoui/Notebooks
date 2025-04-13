@@ -36,10 +36,8 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt="Power BI" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/n8n.svg](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/n8n-14djj6nxy95fbv0dv1vg0ya.png/n8n-myok68cmangmv67irqchlo.png?_a=DAJFJtWIZAAC)" alt="n8n" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" alt="Tableau" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftazure.svg" alt="Azure" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonawsredshift.svg" alt="Amazon Redshift" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snowflake.svg" alt="Snowflake" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
